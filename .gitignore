@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv_old_broken/
+
+# Django local database
+db.sqlite3
+taller_formularios_SamuelMena_JuanEnriquez/db.sqlite3
+
+# OS/editor
+.DS_Store
+Thumbs.db
